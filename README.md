@@ -5,6 +5,7 @@ A machine learning project that classifies sonar data to determine whether an ob
 This project implements a machine learning model to classify objects detected by sonar as either a 'mine' or a 'rock'. The dataset used consists of sonar signals bounced off various objects, and the goal is to accurately distinguish between the two categories. A Logistic Regression model is trained and evaluated for this classification task.
 
 ## Dataset
+Dataset Link "https://drive.google.com/file/d/1pQxtljlNVh0DHYg-Ye7dtpDTlFceHVfa/view"
 The dataset contains 60 features representing sonar signal patterns and a target variable indicating whether the object is 'M' (Mine) or 'R' (Rock).
 
 ## Features
